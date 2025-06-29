@@ -11,13 +11,14 @@
 
 <br>
 <br>
-<p style="font-size: 18px; color: white;">
-  🔭 <strong style="color: #F75590;">Currently working on:</strong> my own Operating System.<br>
-  🌱 <strong style="color: #F75590;">Learning:</strong> Data Structures & Algorithms, Low-level Systems.<br>
-  💡 <strong style="color: #F75590;">Exploring:</strong> AI, Machine Learning, and Robotics.<br>
-  💻 <strong style="color: #F75590;">Passionate about:</strong> open-source and building impactful tools.<br>
+<p style="font-size: 20px; color: white;">
+  🔭 <strong style="color: #F75590;">Currently working on:</strong> <span style="color: #F75590;">my own Operating System</span>.<br>
+  🌱 <strong style="color: #F75590;">Learning:</strong> <span style="color: #F75590;">Data Structures</span> & <span style="color: #F75590;">Algorithms</span>, <span style="color: #F75590;">Low-level Systems</span>.<br>
+  💡 <strong style="color: #F75590;">Exploring:</strong> <span style="color: #F75590;">AI</span>, <span style="color: #F75590;">Machine Learning</span>, and <span style="color: #F75590;">Robotics</span>.<br>
+  💻 <strong style="color: #F75590;">Passionate about:</strong> <span style="color: #F75590;">open-source</span> and <span style="color: #F75590;">building impactful tools</span>.<br>
   🎯 <strong style="color: #F75590;">Goal:</strong> To achieve the title of <strong style="color: #F75590;">"The Greatest Developer that's ever lived."</strong>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cyberknight-cmd/cyberknight-cmd/output/snake.svg" alt="Snake animation" /><br>
@@ -41,7 +42,7 @@
 
 ---
 <details>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2 style="color: #F75590;">🛠️ My Favorite Tools</h2></summary>
 
   <br>
 
@@ -116,8 +117,8 @@
 
 </details>
 
-
-<br><br>
+---
+<br>
 
 <h3>📊 Stats and Activity</h3>
 
