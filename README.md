@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arya</h1>
+<p align="center">
+  <a href="https://github.com/cyberknight-cmd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Hello+Git-World%2C+I'm+Arya;Welcome+to+my+profile;I+build+cool+stuff" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">A passionate "lil-bit-of-everything" developer from India</h3>
 
 <p align="center">
@@ -8,7 +13,7 @@
 - 🔭 I’m currently working on [an operating system](<repo-link>)
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 📫 Reach me at **aryagupta164@gmail.com**
-- ⚡ Fun fact: *"Writing hundreds of lines of code every day to pretend my mind is still sane"*
+- ⚡ Fun fact about me : *"Writing hundreds of lines of code every day to pretend my mind is still sane"*
 
 ---
 
