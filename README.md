@@ -30,8 +30,7 @@
 
 ### ✨ About Me
 
-I'm a curious mind fueled by logic, experimentation, and just the right dose of chaos. I enjoy breaking things, fixing them better, and understanding what lies beneath the surface. From building an OS to exploring how machines think — I'm driven by the *why* as much as the *how*.
-
+I spend my days breaking things apart to see what secrets they hide, only to realise everything is emptier than I thought – except my caffeine cup, which is perpetually full. I break things for fun and fix them out of guilt. From building pointless OS projects no one asked for to teaching machines how to think (so they can replace us faster), I live somewhere between logic, endless pointer calculations, and existential dread. I write code that works… eventually. If something isn’t broken, give me a minute – after all, bugs are life’s way of keeping me *entertained*.
 
 ### 📌 Pinned Repositories
 
