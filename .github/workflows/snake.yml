@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           github_user_name: cyberknight-cmd
           outputs: |
@@ -23,4 +23,5 @@ jobs:
           author_email: github-actions@github.com
           message: "Generate contribution snake animation"
           add: "dist/*.svg"
+
 
