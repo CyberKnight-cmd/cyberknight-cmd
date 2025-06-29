@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyberknight-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="cyberknight-cmd" />
   <p align="center">
-  <img src="https://github.com/cyberknight-cmd/cyberknight-cmd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/cyberknight-cmd/cyberknight-cmd/output/snake.svg" alt="Snake animation" />
 </p>
 
 
