@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<p style="font-size: 20px; color: white; font-family: Fira Code, monospace;">
+<p style="font-size: 22px; color: white; font-family: Fira Code, monospace;">
   🔭 <strong style="color: #F75590;">Currently working on:</strong> <span style="color: #F75590;">my own Operating System</span>.<br>
   🌱 <strong style="color: #F75590;">Learning:</strong> <span style="color: #F75590;">Data Structures</span> & <span style="color: #F75590;">Algorithms</span>, <span style="color: #F75590;">Low-level Systems</span>.<br>
   💡 <strong style="color: #F75590;">Exploring:</strong> <span style="color: #F75590;">AI</span>, <span style="color: #F75590;">Machine Learning</span>, and <span style="color: #F75590;">Robotics</span>.<br>
