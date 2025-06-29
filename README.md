@@ -11,13 +11,14 @@
 
 <br>
 <br>
-<p style="font-size: 20px; color: white;">
+<p style="font-size: 20px; color: white; font-family: Fira Code, monospace;">
   🔭 <strong style="color: #F75590;">Currently working on:</strong> <span style="color: #F75590;">my own Operating System</span>.<br>
   🌱 <strong style="color: #F75590;">Learning:</strong> <span style="color: #F75590;">Data Structures</span> & <span style="color: #F75590;">Algorithms</span>, <span style="color: #F75590;">Low-level Systems</span>.<br>
   💡 <strong style="color: #F75590;">Exploring:</strong> <span style="color: #F75590;">AI</span>, <span style="color: #F75590;">Machine Learning</span>, and <span style="color: #F75590;">Robotics</span>.<br>
   💻 <strong style="color: #F75590;">Passionate about:</strong> <span style="color: #F75590;">open-source</span> and <span style="color: #F75590;">building impactful tools</span>.<br>
-  🎯 <strong style="color: #F75590;">Goal:</strong> To achieve the title of <strong style="color: #F75590;">"The Greatest Developer that's ever lived."</strong>
+  🎯 <strong style="color: #F75590;">Goal:</strong> <em style="color: #F75590;">Striving to be remembered as one of the greatest developers ever.</em>
 </p>
+
 
 
 <p align="center">
@@ -25,6 +26,22 @@
   <img src="https://komarev.com/ghpvc/?username=cyberknight-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="cyberknight-cmd" />
 </p>
 
+---
+
+### ✨ About Me
+
+I'm a curious mind fueled by logic, experimentation, and just the right dose of chaos. I enjoy breaking things, fixing them better, and understanding what lies beneath the surface. From building an OS to exploring how machines think — I'm driven by the *why* as much as the *how*.
+
+
+### 📌 Pinned Repositories
+
+| Repository                                                                                                                                                                | Description                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [![OS](https://img.shields.io/badge/OS-Operating%20System-informational?style=for-the-badge\&logo=linux)](https://github.com/your-username/your-os-repo)                  | A custom Operating System built from scratch in C. |
+| [![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Data%20Structures-blue?style=for-the-badge\&logo=codeforces)](https://github.com/CyberKnight-cmd/dsa-overall) | My personal vault of solved problems and algorithmic patterns.  |
+| [![ML](https://img.shields.io/badge/ML-Machine%20Learning-success?style=for-the-badge\&logo=scikit-learn)](https://github.com/your-username/your-ml-repo)                 | Projects exploring supervised & unsupervised learning.          |
+| [![Robotics](https://img.shields.io/badge/Robotics-Autonomous%20Projects-lightgrey?style=for-the-badge\&logo=ros)](https://github.com/CyberKnight-cmd/Threshold-detector)   | Explorations into robotics using Python & Arduino.                  |
+| [![Tools](https://img.shields.io/badge/Tools-Open%20Source%20Utilities-brightgreen?style=for-the-badge\&logo=github)](https://github.com/your-username/your-tools-repo)   | Handy CLI and GUI tools built for real-world usage.             |
 
 ---
 <h3 align="center">📫 Connect with me</h3>
