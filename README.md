@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=1000&lines=Hey+Git-World%2C+Arya+reporting+for+some+code+duty;Welcome+to+my+GitHub+lair+–+beware+of+flying+semicolons+and+falling+braces;Life+is+never+fun+but+coding+always+is;Living+in+a+world+of+infinite+loops+and+undefined+behaviors.;I+write+code+so+my+computer+can+work+harder+while+I+nap" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=1000&lines=Hey+Git-World%2C+Arya+reporting+for+some+code+duty;Welcome+to+my+GitHub+lair+–+beware+of+flying+semicolons+and+falling+braces;Life+is+never+fun+but+coding+always+is;Living+in+a+world+of+infinite+loops+and+undefined+behaviors.;I+write+code+so+my+computer+can+work+harder+while+I+nap" alt="Typing SVG" />
 </p>
 
- 
 <h3 align="center">A passionate "lil-bit-of-everything" developer from India</h3>
 
 <p align="center">
