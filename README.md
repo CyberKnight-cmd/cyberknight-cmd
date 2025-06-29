@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=600&lines=Hello+Git-World%2C+I'm+Arya;Welcome+to+my+GitHub+profile;I+love+building+fun+projects+and+exploring+new+tech;Life+is+never+fun+but+coding+always+is" alt="Typing SVG" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=600&lines=Hello+Git-World%2C+I'm+Arya" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
  
 <h3 align="center">A passionate "lil-bit-of-everything" developer from India</h3>
