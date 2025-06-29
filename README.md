@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/CyberKnight-cmd/cyberknight-cmd/blob/main/Untitled.jpg?raw=true" alt="Arya Gupta" /></a>
+    <img src="https://github.com/CyberKnight-cmd/cyberknight-cmd/blob/main/Untitled.png?raw=true" alt="Arya Gupta" /></a>
 </p>
 
 <p align="center">
