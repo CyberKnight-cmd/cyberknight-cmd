@@ -1,5 +1,8 @@
-[                                 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hey+Git-World%2C+Arya+reporting+for+some+code+duty;Welcome+to+my+GitHub+lair+%E2%80%93+beware+of+flying+semicolons+and+falling+braces;Living+in+a+world+of+infinite+loops+and+undefined+behaviors.;I+write+code+so+my+computer+can+work+harder+while+I+nap.)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hey+Git-World%2C+Arya+reporting+for+some+code+duty;Welcome+to+my+GitHub+lair+%E2%80%93+beware+of+flying+semicolons+and+falling+braces;Living+in+a+world+of+infinite+loops+and+undefined+behaviors.;I+write+code+so+my+computer+can+work+harder+while+I+nap." alt="Typing SVG" />
+  </a>
+</div>
 
 
 
