@@ -1,9 +1,8 @@
-<p align="center">
-  <a href="https://github.com/cyberknight-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Hello+Git-World%2C+I'm+Arya;Welcome+to+my+profile;I+build+cool+stuff" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Hello+Git-World%2C+I'm+Arya;Welcome+to+my+profile;I+build+cool+stuff" alt="Typing SVG" />
+</div>
 
+ 
 <h3 align="center">A passionate "lil-bit-of-everything" developer from India</h3>
 
 <p align="center">
