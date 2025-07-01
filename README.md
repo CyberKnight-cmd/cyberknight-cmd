@@ -138,10 +138,6 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 
 <h3>📊 Stats and Activity</h3>
 
-<h4>🔥 GitHub Stats</h4>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cyberknight-cmd&theme=react&hide_border=true&background=1F222E&dates=F8D866&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&currStreakNum=F8D866" alt="GitHub Streak Stats" />
-</p>
 
 <h4>💻 Profile Stats</h4>
 <p align="center">
