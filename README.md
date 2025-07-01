@@ -138,9 +138,9 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 
 <h3>📊 Stats and Activity</h3>
 
-<h4>🔥 Streak Stats</h4>
+<h4>🔥 GitHub Stats</h4>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberknight-cmd&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberknight-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <h4>💻 Profile Stats</h4>
@@ -154,3 +154,4 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=cyberknight-cmd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </p>
+
