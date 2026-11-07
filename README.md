@@ -1,64 +1,57 @@
+<!-- ░░ HEADER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F75590,100:7F5AF0&height=220&section=header&text=ARYA%20GUPTA&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=%2F%2F%20CyberKnight%20%E2%80%A2%20Systems%20%E2%80%A2%20AI%20%E2%80%A2%20Robotics&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/CyberKnight-cmd/cyberknight-cmd/blob/main/Untitled.png?raw=true" alt="Arya Gupta" /></a>
+  <img src="https://github.com/CyberKnight-cmd/cyberknight-cmd/blob/main/Untitled.png?raw=true" alt="Arya Gupta" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F75590&width=1000&center=true&vCenter=true&lines=Hello+Git-World!;Welcome+to+my+GitHub+profile;Living+in+a+world+of+infinite+loops+and+undefined+behaviors.;I+write+code+so+my+computer+can+work+harder+while+I+nap.;A+passionate+%22lil-bit-of-everything%22+developer+from+India;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75590&width=1000&center=true&vCenter=true&lines=Hello+Git-World!;Welcome+to+my+GitHub+profile;Living+in+a+world+of+infinite+loops+and+undefined+behaviors.;I+write+code+so+my+computer+can+work+harder+while+I+nap.;A+passionate+%22lil-bit-of-everything%22+developer+from+India" alt="Typing SVG" />
   </a>
 </p>
 
-<br>
-<br>
-<p style="font-size: 28px; color: white; font-family: Fira Code, monospace;">
-  🔭 <strong style="color: #F75590;">Currently working on:</strong> <span style="color: #F75590;">my own Operating System</span>.<br>
-  🌱 <strong style="color: #F75590;">Learning:</strong> <span style="color: #F75590;">Data Structures</span> & <span style="color: #F75590;">Algorithms</span>, <span style="color: #F75590;">Low-level Systems</span>.<br>
-  💡 <strong style="color: #F75590;">Exploring:</strong> <span style="color: #F75590;">AI</span>, <span style="color: #F75590;">Machine Learning</span>, and <span style="color: #F75590;">Robotics</span>.<br>
-  💻 <strong style="color: #F75590;">Passionate about:</strong> <span style="color: #F75590;">open-source</span> and <span style="color: #F75590;">building impactful tools</span>.<br>
-  🎯 <strong style="color: #F75590;">Goal:</strong> <em style="color: #F75590;">Striving to be remembered as one of the greatest developers ever.</em>
-</p>
-
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyberknight-cmd/cyberknight-cmd/output/github-contribution-grid-snake.svg" alt="Snake animation" /><br>
-  <img src="https://komarev.com/ghpvc/?username=cyberknight-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="cyberknight-cmd" />
+  <img src="https://komarev.com/ghpvc/?username=cyberknight-cmd&label=PROFILE%20VIEWS&color=F75590&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/cyberknight-cmd?tab=followers"><img src="https://img.shields.io/github/followers/cyberknight-cmd?label=FOLLOWERS&style=for-the-badge&color=7F5AF0&labelColor=0D1117" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20AN%20OS-F75590?style=for-the-badge&labelColor=0D1117" alt="Status" />
 </p>
 
 ---
+
+### `> whoami`
+
+```c
+struct Developer arya = {
+    .alias        = "CyberKnight",
+    .location     = "India 🇮🇳",
+    .working_on   = "my own Operating System",
+    .learning     = { "Data Structures & Algorithms", "Low-level Systems" },
+    .exploring    = { "AI", "Machine Learning", "Robotics" },
+    .passionate   = { "open-source", "building impactful tools" },
+    .fuel         = "caffeine (perpetually full)",
+    .goal         = "be remembered as one of the greatest developers ever",
+};
+```
 
 ### ✨ About Me
 
 I spend my days breaking things apart to see what secrets they hide, only to realise everything is emptier than I thought – except my caffeine cup, which is perpetually full. I break things for fun and fix them out of guilt. From building pointless OS projects no one asked for to teaching machines how to think (so they can replace us faster), I live somewhere between logic, endless pointer calculations, and existential dread. I write code that works… eventually. If something isn’t broken, give me a minute – after all, bugs are life’s way of keeping me *entertained*.
 
-### 📌 Pinned Repositories
-
-| Repository                                                                                                                                                                | Description                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [![OS](https://img.shields.io/badge/OS-Operating%20System-informational?style=for-the-badge\&logo=linux)](https://github.com/your-username/your-os-repo)                  | A custom Operating System built from scratch in C. |
-| [![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Data%20Structures-blue?style=for-the-badge\&logo=codeforces)](https://github.com/CyberKnight-cmd/dsa-overall) | My personal vault of solved problems and algorithmic patterns.  |
-| [![ML](https://img.shields.io/badge/ML-Machine%20Learning-success?style=for-the-badge\&logo=scikit-learn)](https://github.com/your-username/your-ml-repo)                 | Projects exploring supervised & unsupervised learning.          |
-| [![Robotics](https://img.shields.io/badge/Robotics-Autonomous%20Projects-lightgrey?style=for-the-badge\&logo=ros)](https://github.com/CyberKnight-cmd/Threshold-detector)   | Explorations into robotics using Python & Arduino.                  |
-| [![Tools](https://img.shields.io/badge/Tools-Open%20Source%20Utilities-brightgreen?style=for-the-badge\&logo=github)](https://github.com/your-username/your-tools-repo)   | Handy CLI and GUI tools built for real-world usage.             |
-
 ---
-<h3 align="center">📫 Connect with me</h3>
+
+### ⚡ Tech Arsenal
 
 <p align="center">
-  <a href="mailto:aryagupta164@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dev.to/cyberknight-cmd"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://twitter.com/cyberknight_cmd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aryagupta2304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/cyberknight_ig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/aryagupta164"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/cyberknight_cmd"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/arya2024"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,php,r,bash,html,css&perline=12&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,tensorflow,arduino,mongodb,mysql,githubactions,vercel,wordpress,linux,arch&perline=12&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,discord,obsidian,stackoverflow&perline=12&theme=dark" />
+  </a>
 </p>
 
----
 <details>
-  <summary><h2 style="color: #F75590;">🛠️ My Favorite Tools</h2></summary>
+  <summary><h2 style="color: #F75590;">🛠️ The Full Toolbox (click to expand)</h2></summary>
 
   <br>
 
@@ -134,20 +127,61 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 </details>
 
 ---
-<br>
 
-<h3>📊 Stats and Activity</h3>
+### 📌 Featured Work
 
+| Project | What it is |
+| :-- | :-- |
+| [![OS](https://img.shields.io/badge/OS-Operating%20System-F75590?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://github.com/cyberknight-cmd?tab=repositories) | A custom Operating System built from scratch in C. |
+| [![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Data%20Structures-7F5AF0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/dsa-overall) | My personal vault of solved problems and algorithmic patterns. |
+| [![ML](https://img.shields.io/badge/ML-Machine%20Learning-2CB67D?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117)](https://github.com/cyberknight-cmd?tab=repositories) | Projects exploring supervised & unsupervised learning. |
+| [![Robotics](https://img.shields.io/badge/Robotics-Autonomous%20Projects-F8D866?style=for-the-badge&logo=ros&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/Threshold-detector) | Explorations into robotics using Python & Arduino. |
+| [![Tools](https://img.shields.io/badge/Tools-Open%20Source%20Utilities-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/cyberknight-cmd?tab=repositories) | Handy CLI and GUI tools built for real-world usage. |
 
-<h4>💻 Profile Stats</h4>
+---
+
+### 📊 Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberknight-cmd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberknight-cmd&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberknight-cmd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F75590&icon_color=F8D866&text_color=C9D1D9&ring_color=F75590" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberknight-cmd&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F75590&text_color=C9D1D9" height="180px" />
 </p>
-<p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
-<h4>📈 Contribution Graph</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=cyberknight-cmd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=cyberknight-cmd&hide_border=true&background=0D1117&ring=F75590&fire=F75590&currStreakLabel=F75590&sideLabels=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyberknight-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=cyberknight-cmd&bg_color=0D1117&color=F8D866&line=F75590&point=FFFFFF&area=true&area_color=F75590&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center"><sub><b>Note:</b> Top languages only reflects my public code — not experience or skill level.</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberknight-cmd/cyberknight-cmd/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/cyberknight-cmd/cyberknight-cmd/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
+
+---
+
+<h3 align="center">📫 Connect with me</h3>
+<p align="center">
+  <a href="mailto:aryagupta164@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dev.to/cyberknight-cmd"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://twitter.com/cyberknight_cmd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aryagupta2304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/cyberknight_ig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/aryagupta164"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/cyberknight_cmd"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/arya2024"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center"><i>“It works on my machine.” — me, shipping it anyway.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:F75590,100:0D1117&height=120&section=footer" width="100%" />
