@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Graph
+name: Generate Profile Cards
 
 on:
   schedule:
@@ -17,9 +17,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Generate stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python3 scripts/stats_cards.py
       - name: Commit images
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib
+          git add -A profile-3d-contrib profile-stats
           git diff --cached --quiet || (git commit -m "Update 3D contribution graph" && git push)

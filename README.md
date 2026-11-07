@@ -147,8 +147,8 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberknight-cmd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F75590&icon_color=F8D866&text_color=C9D1D9&ring_color=F75590" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberknight-cmd&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F75590&text_color=C9D1D9" height="180px" />
+  <img src="./profile-stats/stats.svg" height="180px" alt="GitHub stats" />
+  <img src="./profile-stats/top-langs.svg" height="180px" alt="Top languages" />
 </p>
 
 <p align="center">
