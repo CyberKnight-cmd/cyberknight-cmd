@@ -132,11 +132,15 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 
 | Project | What it is |
 | :-- | :-- |
-| [![OS](https://img.shields.io/badge/OS-Operating%20System-F75590?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://github.com/cyberknight-cmd?tab=repositories) | A custom Operating System built from scratch in C. |
-| [![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Data%20Structures-7F5AF0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/dsa-overall) | My personal vault of solved problems and algorithmic patterns. |
-| [![ML](https://img.shields.io/badge/ML-Machine%20Learning-2CB67D?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117)](https://github.com/cyberknight-cmd?tab=repositories) | Projects exploring supervised & unsupervised learning. |
-| [![Robotics](https://img.shields.io/badge/Robotics-Autonomous%20Projects-F8D866?style=for-the-badge&logo=ros&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/Threshold-detector) | Explorations into robotics using Python & Arduino. |
-| [![Tools](https://img.shields.io/badge/Tools-Open%20Source%20Utilities-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/cyberknight-cmd?tab=repositories) | Handy CLI and GUI tools built for real-world usage. |
+| [![memforge](https://img.shields.io/badge/memforge-F75590?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/memforge) | 🧠 Interactive OS lab — memory allocation, fragmentation, paging & page-replacement algorithms. *(C)* |
+| [![ulai](https://img.shields.io/badge/ulai-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/ulai) | 📦 One file, double-click, any distro — signed & sandboxed Linux apps (AppImage superset, Landlock). *(Rust, pre-alpha)* |
+| [![echo](https://img.shields.io/badge/ECHO-7F5AF0?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/echo) | 🚦 Hierarchical Stackelberg-game framework for scalable autonomous intersection management. *(C++)* |
+| [![zivak](https://img.shields.io/badge/ZIVAK-2CB67D?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/zivak) | 🩺 Zero-Inference Validated AI for knowledge-grounded diagnostics. *(Python)* |
+| [![amazon-ml-challenge-2026-entity-resolution](https://img.shields.io/badge/Amazon%20ML%20Challenge%20'26-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/amazon-ml-challenge-2026-entity-resolution) | 🔗 Entity resolution across noisy sources — blocking + LightGBM matcher + context decoder. |
+| [![odoo](https://img.shields.io/badge/Odoo%20Hackathon%20🥈-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/odoo) | 🏆 **2nd Runner-Up** — carpooling platform with Uber H3 geospatial route matching, JWT & REST. |
+| [![INSANE-PROJECTS](https://img.shields.io/badge/INSANE%20PROJECTS-F8D866?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/INSANE-PROJECTS) | 💡 From-scratch projects reinventing the wheel to master how it turns — logic-first, library-last. |
+| [![git-drive](https://img.shields.io/badge/git--drive-00B4D8?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/git-drive) | ☁️ Git-inspired backup utility that syncs local changes to Google Drive. *(Python)* |
+| [![dsa-overall](https://img.shields.io/badge/DSA%20Vault-3178C6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://github.com/CyberKnight-cmd/dsa-overall) | 📚 Topic-wise DSA practice in C++/Java plus LeetCode solutions. |
 
 ---
 
@@ -152,11 +156,10 @@ I spend my days breaking things apart to see what secrets they hide, only to rea
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyberknight-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=cyberknight-cmd&bg_color=0D1117&color=F8D866&line=F75590&point=FFFFFF&area=true&area_color=F75590&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  </picture>
 </p>
 
 <p align="center"><sub><b>Note:</b> Top languages only reflects my public code — not experience or skill level.</sub></p>
